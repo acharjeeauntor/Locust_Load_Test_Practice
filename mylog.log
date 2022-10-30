@@ -1,0 +1,32 @@
+[2022-10-29 15:21:05,172] Auntors-MacBook-Air.local/INFO/locust.main: Run time limit set to 10 seconds
+[2022-10-29 15:21:05,172] Auntors-MacBook-Air.local/INFO/locust.main: Starting Locust 2.13.0
+[2022-10-29 15:21:05,173] Auntors-MacBook-Air.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2022-10-29 15:21:05,173] Auntors-MacBook-Air.local/INFO/locust.runners: All users spawned: {"MyFirstTest": 1} (1 total users)
+[2022-10-29 15:21:05,173] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:06,174] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:07,178] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:21:08,179] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:09,184] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:10,185] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:11,189] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:21:12,195] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:13,195] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:21:14,200] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:21:15,003] Auntors-MacBook-Air.local/INFO/locust.main: --run-time limit reached, shutting down
+[2022-10-29 15:21:15,004] Auntors-MacBook-Air.local/INFO/locust.main: Shutting down (exit code 0)
+[2022-10-29 15:22:20,798] Auntors-MacBook-Air.local/INFO/locust.main: Run time limit set to 10 seconds
+[2022-10-29 15:22:20,799] Auntors-MacBook-Air.local/INFO/locust.main: Starting Locust 2.13.0
+[2022-10-29 15:22:20,799] Auntors-MacBook-Air.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2022-10-29 15:22:20,800] Auntors-MacBook-Air.local/INFO/locust.runners: All users spawned: {"MyFirstTest": 1} (1 total users)
+[2022-10-29 15:22:20,800] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:21,805] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:22,811] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:22:23,816] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:22:24,822] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:25,827] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:26,833] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:27,834] Auntors-MacBook-Air.local/INFO/root: This is logging info
+[2022-10-29 15:22:28,839] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:29,844] Auntors-MacBook-Air.local/ERROR/root: If there error, this will show
+[2022-10-29 15:22:30,647] Auntors-MacBook-Air.local/INFO/locust.main: --run-time limit reached, shutting down
+[2022-10-29 15:22:30,648] Auntors-MacBook-Air.local/INFO/locust.main: Shutting down (exit code 0)
